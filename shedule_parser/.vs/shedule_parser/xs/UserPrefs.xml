@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{EE9E461E-645D-47BA-9B40-F977BB2B9AE0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="shedule_parser/Program.cs">
+    <Files>
+      <File FileName="shedule_parser/Program.cs" Line="10" Column="1" />
+      <File FileName="shedule_parser/MainWindow.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.shedule__parser PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

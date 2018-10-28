@@ -1,0 +1,10 @@
+/home/andrew/Programming/Mosgortrans/shedule_parser/shedule_parser/bin/Debug/shedule_parser.exe
+/home/andrew/Programming/Mosgortrans/shedule_parser/shedule_parser/bin/Debug/shedule_parser.pdb
+/home/andrew/Programming/Mosgortrans/shedule_parser/shedule_parser/obj/x86/Debug/shedule_parser.csprojAssemblyReference.cache
+/home/andrew/Programming/Mosgortrans/shedule_parser/shedule_parser/obj/x86/Debug/shedule_parser.csproj.CoreCompileInputs.cache
+/home/andrew/Programming/Mosgortrans/shedule_parser/shedule_parser/obj/x86/Debug/shedule_parser.exe
+/home/andrew/Programming/Mosgortrans/shedule_parser/shedule_parser/obj/x86/Debug/shedule_parser.pdb
+/home/andrew/Programming/Mosgortrans/shedule_parser/shedule_parser/bin/Debug/CsQuery.dll
+/home/andrew/Programming/Mosgortrans/shedule_parser/shedule_parser/obj/x86/Debug/shedule_parser.csproj.CopyComplete
+/home/andrew/Programming/Mosgortrans/shedule_parser/shedule_parser/bin/Debug/Newtonsoft.Json.dll
+/home/andrew/Programming/Mosgortrans/shedule_parser/shedule_parser/bin/Debug/Newtonsoft.Json.xml
