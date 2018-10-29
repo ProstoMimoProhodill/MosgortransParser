@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{EE9E461E-645D-47BA-9B40-F977BB2B9AE0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="shedule_parser/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="shedule_parser/Shedule.cs">
     <Files>
-      <File FileName="shedule_parser/Program.cs" Line="10" Column="1" />
-      <File FileName="shedule_parser/MainWindow.cs" Line="17" Column="1" />
+      <File FileName="shedule_parser/Program.cs" Line="174" Column="49" />
+      <File FileName="shedule_parser/MainWindow.cs" Line="8" Column="17" />
+      <File FileName="shedule_parser/Shedule.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

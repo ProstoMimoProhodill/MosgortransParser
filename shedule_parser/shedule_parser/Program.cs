@@ -153,20 +153,38 @@ namespace shedule_parser
     {
         private static void Main(string[] args)
         {
-        /*
-        Application.Init();
-        MainWindow win = new MainWindow();
-        win.Show();
-        Application.Run();
-        */
-        //Parser p = new Parser();
-        //Console.WriteLine(p.createJSON());
-        string URL = "http://www.mosgortrans.org/pass3/shedule.php?type=avto&way=895&date=0000011&direction=AB&waypoint=all";
+        
+            Application.Init();
+            MainWindow win = new MainWindow();
 
-        Parser parser = new Parser(URL);
-        Console.WriteLine(parser.createJSON_station());
+            win.Show();
+            Application.Run();
 
+            //string URL = "http://www.mosgortrans.org/pass3/shedule.php?type=avto&way=895&date=0000011&direction=AB&waypoint=all";
 
+            //Parser parser = new Parser(URL);
+            //Console.WriteLine(parser.createJSON_station());
+            
+        }
+
+        public static void shedule_open(string data)
+        {
+            Shedule shedule_win = new Shedule(data);
+            shedule_win.Show();
+        }
+
+        public static string parse(string Type, string Route, string Days, string Direction, string Waypoints)
+        {
+            string base_url = "http://www.mosgortrans.org/pass3/shedule.php?";
+            //string URL = "http://www.mosgortrans.org/pass3/shedule.php?type=avto&way=895&date=0000011&direction=AB&waypoint=all";
+            string URL = (base_url + "type=" + Type + "&way=" + Route + "&date=" + Days +"&direction=" + Direction + "&waypoint=" + Waypoints);
+
+            Parser parser = new Parser(URL);
+
+            Console.WriteLine(URL);
+            Console.WriteLine(parser.createJSON_station());
+
+            return parser.createJSON_station();
         }
     }
 }
